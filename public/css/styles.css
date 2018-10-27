@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #b8b1b1;
+}
+.page-wrapper {
+    margin: auto;
+    padding: 50px;
+    background: #817c7c;
+}
+.form {
+    text-align: center;
+    background: #ffff;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.form-group {
+    padding: 10px;
+}
+.form-control {
+    margin-top: 20px;
+    line-height: 25px;
+
+}
+.form-control:focus {
+    margin-top: 20px;
+    line-height: 25px;
+    border: 1px solid #0c9656;
+    
+}
+.button-submit {
+    background: #0c9656;
+    border: none;
+    padding: 10px 40px;
+    text-align: center;
+    color: #ffff;
+    font-weight: bold;
+    font-size: 14px;
+    margin: auto;
+    display: block;
+    border-radius: 2px;
+    cursor: pointer;
+}
